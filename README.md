@@ -30,7 +30,7 @@ screenshot
     
     
    c. customer accounts
-    ![](customeraccounts.JPG) 
+    ![](customerAccounts.JPG) 
     
     
    d. view all events
